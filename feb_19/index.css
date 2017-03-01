@@ -104,8 +104,8 @@ nav a{
       border: 1px solid white;   
 
 }
-#Photo{
-    width:385px;
+#Photo img{
+    width:100%;
     height:385px;
      margin-top: 10px;
     border: 1px solid white;   
@@ -147,6 +147,13 @@ strong{
     color:black;
 
 }
-
+#Photo{
+    float:left; 
+    width:45%;
+    }
+    
+    
+    
+}
 
 
