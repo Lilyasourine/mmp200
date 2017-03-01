@@ -141,6 +141,7 @@ div.ex1{
 footer{
     text-align:center;
     margin-top:30em; 
+    clear:both;
 } 
 strong{
     font-family: Courier;
